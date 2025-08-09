@@ -1,0 +1,14 @@
+{
+    "name": "Random Fact",
+    "description": "show's a random fact.",
+    "authors": [
+        {
+            "name": "hakur",
+            "id": "1301299089073242232"
+        },
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": ""
+    }
+} 
